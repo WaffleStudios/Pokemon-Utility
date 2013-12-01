@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pokemon Utility</string>
+    <!--<string name="pokedex">Pokedex</string>-->
+    <string name="iv_calc">IV Calculator</string>
+    <string name="ev_count">EV Counter</string>
+    <string-array name="item_list">
+        <!--<item>Pokedex</item>-->
+        <item>IV Calculator</item>
+        <item>EV Counter</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
